@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prashasti 👋</h1>
+<h1 align="center">Hi, I am Prashasti 👋</h1>
 <h3 align="center">ML/AI engineer building agentic AI and retrieval systems that are evaluated and traced</h3>
 
 <p align="center">
