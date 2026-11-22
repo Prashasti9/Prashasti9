@@ -2,9 +2,9 @@
 <h3 align="center">ML/AI engineer building agentic AI and retrieval systems that are evaluated, traced, and safe to put in front of real users</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashasti-srivastava-7bb41711b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/MS_Data_Science_%26_AI-USF-00543C?style=for-the-badge" alt="MS Data Science & AI, USF">
-  <img src="https://img.shields.io/badge/9_years-in_data-6E40C9?style=for-the-badge" alt="9 years in data">
+  <a href="https://www.linkedin.com/in/prashasti-srivastava-7bb41711b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/MS_Data_Science_%26_AI_%C2%B7_USF-1E5631?style=for-the-badge" alt="MS Data Science & AI, USF">
+  <img src="https://img.shields.io/badge/9_Years_in_Data-6E40C9?style=for-the-badge" alt="9 years in data">
 </p>
 
 <p align="center"><b>Visa · BCG · Optum · Genpact · IBM</b></p>
