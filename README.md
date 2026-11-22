@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Prashasti Srivastava
 
 ML and AI engineer with 9 years in data at Visa, BCG, Optum, Genpact and IBM. Now finishing an MS in Data Science and AI at the University of San Francisco, and building agentic AI and retrieval systems that are evaluated, traced and safe to put in front of real users.
@@ -21,4 +18,3 @@ A Dagster daily pipeline with data contracts feeds rules, an anomaly model and a
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/prashasti-srivastava-7bb41711b)
--->
