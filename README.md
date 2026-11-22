@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prashasti 👋</h1>
-<h3 align="center">ML/AI engineer building agentic AI and retrieval systems that are evaluated, traced, and safe to put in front of real users</h3>
+<h3 align="center">ML/AI engineer building agentic AI and retrieval systems that are evaluated and traced</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashasti-srivastava-7bb41711b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
@@ -18,6 +18,16 @@
 | 🔁 | **Production data pipelines** | Data contracts, idempotent loads, orchestration |
 | 📈 | **ML with honest evaluation** | Time-based splits, drift monitoring, champion/challenger models |
 | 🤖 | **Grounded LLM systems** | Retrieval, tool-using agents, tracing, LLM-as-judge with human checks |
+
+### Tech stack
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **ML** | scikit-learn, XGBoost, pandas, NumPy |
+| **LLM and agents** | Ollama, RAG, ChromaDB, BM25 hybrid search, tool calling, LLM-as-judge |
+| **MLOps** | MLflow (tracking, registry, tracing), Dagster, Docker, GitHub Actions, pytest |
+| **Data and serving** | SQLite, pandera data contracts, FastAPI, Streamlit |
 
 ---
 
